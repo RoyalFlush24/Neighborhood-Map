@@ -13,7 +13,7 @@
 * The web page can be viewed with any size meaning you can resize the browser to fit your preference.
 * You can search for more location inside the search bar located inside the **More Option Button** or the **Hamburger Button** located to your right hand top corner.
 * You can either hide or make the navigation bar visible with more options.
-* Or if you wanted to see what it looks like without going through all that trouble simply click on [this website hosted by github](https://github.com/RoyalFlush24/Neighborhood-Map).
+* And you are done you can view the page of the map.
 
 ## License
 
