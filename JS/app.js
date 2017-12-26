@@ -29,7 +29,7 @@ function AppViewModel() {
                 self.street = response.location.formattedAddress[0];
                 self.city = response.location.formattedAddress[1];
                 self.zip = response.location.postalCode;
-                self.country = response.location.formattedAddress[2];
+                self.country = 'United States';
                 self.category = response.categories[0].shortName;
 
                 self.htmlContentFoursquare =
