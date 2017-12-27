@@ -24,7 +24,7 @@ function AppViewModel() {
                 '&client_secret=' + clientSecret + '&query=' + marker.title +
                 '&v=20170708' + '&m=foursquare';
             // Foursquare API
-            $.getJSON(apiUrl).done(function(marker) {
+             $.getJSON(apiUrl).done(function(marker) {
                 var response = marker.response.venues[0];
                 self.street = response.location.formattedAddress[0];
                 self.city = response.location.formattedAddress[1];
